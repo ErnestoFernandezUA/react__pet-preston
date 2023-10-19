@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react__pet-preston/static/css/main.50db1b57.css",
+    "main.js": "/react__pet-preston/static/js/main.f193da6a.js",
+    "index.html": "/react__pet-preston/index.html",
+    "main.50db1b57.css.map": "/react__pet-preston/static/css/main.50db1b57.css.map",
+    "main.f193da6a.js.map": "/react__pet-preston/static/js/main.f193da6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50db1b57.css",
+    "static/js/main.f193da6a.js"
+  ]
+}
