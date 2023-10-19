@@ -1,6 +1,6 @@
 {
   "name": "react__weather-report",
-  "homepage": "https://ernestofernandezua.github.io/react__weather-report/",
+  "homepage": "https://ernestofernandezua.github.io/react__pet-preston/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,8 +38,8 @@
     "lint": "npm run lint-js && npm run lint-css",
     "update": "mate-scripts update",
     "postinstall": "npm run update",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npm run dist",
+    "deploy": "gh-pages -d dist"
   },
   "eslintConfig": {
     "extends": [
