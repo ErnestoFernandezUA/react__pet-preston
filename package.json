@@ -38,7 +38,7 @@
     "lint": "npm run lint-js && npm run lint-css",
     "update": "mate-scripts update",
     "postinstall": "npm run update",
-    "predeploy": "npm run dist",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "eslintConfig": {
